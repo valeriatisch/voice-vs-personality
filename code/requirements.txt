@@ -1,0 +1,9 @@
+librosa==0.9.1
+matplotlib==3.5.1
+numpy==1.22.3
+pandas==1.4.2
+pydub==0.25.1
+pyloudnorm==0.1.0
+scipy==1.8.0
+SoundFile==0.10.3.post1
+SpeechRecognition==3.8.1
